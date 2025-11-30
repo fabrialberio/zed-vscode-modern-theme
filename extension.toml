@@ -2,6 +2,6 @@ id = "vscode-modern"
 name = "VSCode Modern Theme"
 version = "0.0.1"
 schema_version = 1
-authors = ["Fabri"]
+authors = ["fabrialberio"]
 description = "Light and dark themes inspired by VSCode Modern themes."
 repository = "https://github.com/fabrialberio/zed-vscode-modern-theme"

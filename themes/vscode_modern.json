@@ -38,6 +38,9 @@
           "boolean": {
             "color": "#569cd6"
           },
+          "comment": {
+            "color": "#6a9955"
+          },
           "constant": {
             "color": "#569cd6"
           },
@@ -72,6 +75,12 @@
           },
           "punctuation.list_marker": {
             "color": "#91cbea"
+          },
+          "selector": {
+            "color": "#9cdcfe"
+          },
+          "selector.pseudo": {
+            "color": "#dcdcaa"
           },
           "string": {
             "color": "#ba846e"
@@ -136,6 +145,9 @@
           "constant": {
             "color": "#0000ff"
           },
+          "comment": {
+            "color": "#008000"
+          },
           "emphasis": {
             "color": "#001080",
             "font_style": "italic"
@@ -167,6 +179,12 @@
           },
           "punctuation.list_marker": {
             "color": "#0451a5"
+          },
+          "selector": {
+            "color": "#001080"
+          },
+          "selector.pseudo": {
+            "color": "#795e26"
           },
           "string": {
             "color": "#ad2f2f"

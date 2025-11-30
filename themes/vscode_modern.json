@@ -41,7 +41,21 @@
           "constant": {
             "color": "#569cd6"
           },
+          "emphasis": {
+            "color": "#9cdcfe",
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "color": "#9cdcfe",
+            "font_weight": 700
+          },
           "function": {
+            "color": "#dcdcaa"
+          },
+          "link_text": {
+            "color": "#dcdcaa"
+          },
+          "link_uri": {
             "color": "#dcdcaa"
           },
           "keyword": {
@@ -56,6 +70,9 @@
           "property": {
             "color": "#91cbea"
           },
+          "punctuation.list_marker": {
+            "color": "#91cbea"
+          },
           "string": {
             "color": "#ba846e"
           },
@@ -67,6 +84,10 @@
           },
           "tag": {
             "color": "#569cd6"
+          },
+          "title": {
+            "color": "#569cd6",
+            "font_weight": 700
           },
           "type": {
             "color": "#4ec9b0"
@@ -115,7 +136,21 @@
           "constant": {
             "color": "#0000ff"
           },
+          "emphasis": {
+            "color": "#001080",
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "color": "#001080",
+            "font_weight": 700
+          },
           "function": {
+            "color": "#795e26"
+          },
+          "link_text": {
+            "color": "#795e26"
+          },
+          "link_uri": {
             "color": "#795e26"
           },
           "keyword": {
@@ -130,6 +165,9 @@
           "property": {
             "color": "#0451a5"
           },
+          "punctuation.list_marker": {
+            "color": "#0451a5"
+          },
           "string": {
             "color": "#ad2f2f"
           },
@@ -141,6 +179,10 @@
           },
           "tag": {
             "color": "#0451a5"
+          },
+          "title": {
+            "color": "#0000ff",
+            "font_weight": 700
           },
           "type": {
             "color": "#267f99"
